@@ -54,7 +54,7 @@ O projeto demonstra a eficiência dos algoritmos quânticos para tarefas de busc
 
 **Melhorias futuras:**  
 - Implementar um sistema de senha quântica que aceite qualquer tipo de caractere, incluindo números, letras e símbolos especiais, ampliando o espaço de busca e tornando o experimento mais próximo de um cenário real de segurança digital.  
-- Buscar o menor números de iterações e manter uma alta porcentagem de acerto
+- Buscar o menor números de iterações e mantendo uma alta porcentagem de acerto
 
 ---
 
